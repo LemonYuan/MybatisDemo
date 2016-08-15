@@ -1,0 +1,1 @@
+本案例是纯Mybatis的应用案例，主要关注点是Mapper.xml与config.xml
